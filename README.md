@@ -1,4 +1,4 @@
-# Federated Learning Platform for Edge IoT Data
+# Federated Learning System for IoT Devices
 
 ## Deployment Architecture
 
